@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Data Integrity](https://img.shields.io/badge/Data_Integrity-100%25_Verified-success?style=for-the-badge&logo=checkmarx)](tests/)
 [![Automated Tests](https://img.shields.io/badge/Tests-Passing_7%2F7-brightgreen?style=for-the-badge&logo=pytest)](tests/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![License: MITE](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 > A modern, interactive multi-view **Microsoft Excel Sales Analytics Dashboard** powered by dynamic pivot tables, slicers, timelines, and shape-based app navigation. Accompanied by an automated **Python data analytics engine**, **data validation test suite**, and **clean CSV exports** for seamless business intelligence reporting.
 
@@ -298,4 +298,4 @@ Sales-Execl-Dashboard/
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - feel free to adapt, extend, and use it for your own business analytics projects.
+This project is licensed under the [MITE License](LICENSE) - feel free to adapt, extend, and use it for your own business analytics projects.
