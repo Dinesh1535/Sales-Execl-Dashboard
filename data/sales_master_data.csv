@@ -1,0 +1,279 @@
+Date,Sales_Person,Product,Place,Price,Units,Amount
+2020-01-01,Ramesh,Furniture,Guntur,499,50,24950
+2020-01-05,Kiran,Furniture,Vijayawada,5599,33,184767
+2020-01-09,Gopi,LED TV's,Bapatla,1450,44,63800
+2020-01-13,Mahesh,4K LED TV's,Guntur,85000,50,4250000
+2020-01-17,Mahesh,Mobiles,Tenali,15000,11,165000
+2020-01-21,Kiran,Furniture,Tenali,2550,48,122400
+2020-01-25,Ganesh,Laptops,Bapatla,33000,26,858000
+2020-01-29,Ramesh,4K LED TV's,Chirala,86000,39,3354000
+2020-02-02,Gopi,Speakers,Tenali,990,9,8910
+2020-02-06,Ramesh,Furniture,Guntur,5599,41,229559
+2020-02-10,Ganesh,Laptops,Bapatla,499,39,19461
+2020-02-14,Kiran,Speakers,Guntur,1999,4,7996
+2020-02-18,Mahesh,4K LED TV's,Guntur,63400,8,507200
+2020-02-22,Prathap,Speakers,Tenali,1499,27,40473
+2020-02-26,Mahesh,Mobiles,Bapatla,120,10,1200
+2020-03-01,Kiran,Laptops,Chirala,11999,17,203983
+2020-03-05,Gopi,4K LED TV's,Vijayawada,47500,27,1282500
+2020-03-09,Ganesh,Laptops,Vijayawada,2999,43,128957
+2020-03-13,Mahesh,Mobiles,Vijayawada,8900,9,80100
+2020-03-17,Kiran,Laptops,Guntur,22000,42,924000
+2020-03-21,Gopi,LED TV's,Vijayawada,1250,6,7500
+2020-03-25,Mahesh,Mobiles,Tenali,999,28,27972
+2020-03-29,Ganesh,LED TV's,Chirala,1450,13,18850
+2020-04-02,Ganesh,LED TV's,Bapatla,23999,8,191992
+2020-04-06,Kiran,4K LED TV's,Chirala,65200,7,456400
+2020-04-10,Kiran,Speakers,Vijayawada,699,45,31455
+2020-04-14,Ramesh,Furniture,Guntur,2550,22,56100
+2020-04-18,Gopi,Laptops,Chirala,22000,4,88000
+2020-04-22,Ganesh,4K LED TV's,Guntur,22000,10,220000
+2020-04-26,Prathap,Speakers,Tenali,1499,16,23984
+2020-04-30,Kiran,Mobiles,Chirala,120,22,2640
+2020-05-04,Ramesh,Furniture,Bapatla,1450,20,29000
+2020-05-08,Prathap,Speakers,Tenali,1999,23,45977
+2020-05-12,Kiran,Furniture,Guntur,800,43,34400
+2020-05-16,Gopi,Mobiles,Tenali,18000,41,738000
+2020-05-20,Ramesh,Furniture,Vijayawada,13999,37,517963
+2020-05-24,Kiran,Laptops,Tenali,22000,45,990000
+2020-05-28,Ganesh,4K LED TV's,Guntur,89999,15,1349985
+2020-06-01,Ramesh,Furniture,Bapatla,13999,22,307978
+2020-06-05,Gopi,Speakers,Vijayawada,2900,20,58000
+2020-06-09,Kiran,Laptops,Tenali,33000,16,528000
+2020-06-13,Gopi,Laptops,Vijayawada,22000,17,374000
+2020-06-17,Prathap,Speakers,Vijayawada,699,50,34950
+2020-06-21,Ganesh,Laptops,Bapatla,499,4,1996
+2020-06-25,Kiran,Speakers,Tenali,590,43,25370
+2020-06-29,Prathap,Speakers,Vijayawada,590,42,24780
+2020-07-03,Kiran,4K LED TV's,Guntur,120,9,1080
+2020-07-07,Ganesh,Laptops,Chirala,52000,40,2080000
+2020-07-11,Gopi,LED TV's,Tenali,7999,14,111986
+2020-07-15,Kiran,LED TV's,Chirala,550,9,4950
+2020-07-19,Gopi,4K LED TV's,Tenali,79999,10,799990
+2020-07-23,Prathap,Speakers,Tenali,1999,37,73963
+2020-07-27,Ganesh,Laptops,Bapatla,89999,29,2609971
+2020-07-31,Kiran,4K LED TV's,Tenali,78500,44,3454000
+2020-08-04,Ganesh,Laptops,Vijayawada,3990,31,123690
+2020-08-08,Gopi,Laptops,Tenali,52000,29,1508000
+2020-08-12,Ramesh,4K LED TV's,Tenali,13999,34,475966
+2020-08-16,Kiran,Mobiles,Vijayawada,120,29,3480
+2020-08-20,Ganesh,LED TV's,Vijayawada,23999,25,599975
+2020-08-24,Ganesh,4K LED TV's,Tenali,45000,31,1395000
+2020-08-28,Kiran,Speakers,Vijayawada,450,16,7200
+2020-09-01,Mahesh,Mobiles,Tenali,65000,48,3120000
+2020-09-05,Gopi,4K LED TV's,Chirala,35600,22,783200
+2020-09-09,Prathap,Speakers,Bapatla,699,6,4194
+2020-09-13,Kiran,Speakers,Vijayawada,990,12,11880
+2020-09-17,Prathap,4K LED TV's,Guntur,450,44,19800
+2020-09-21,Prathap,Speakers,Bapatla,1499,15,22485
+2020-09-25,Ramesh,Furniture,Chirala,499,26,12974
+2020-09-29,Gopi,4K LED TV's,Chirala,44000,16,704000
+2020-10-03,Ramesh,Furniture,Tenali,5599,35,195965
+2020-10-07,Mahesh,4K LED TV's,Guntur,54100,36,1947600
+2020-10-11,Ramesh,Furniture,Bapatla,2550,20,51000
+2020-10-15,Kiran,4K LED TV's,Bapatla,1450,47,68150
+2020-10-19,Prathap,Speakers,Tenali,2900,6,17400
+2020-10-23,Mahesh,4K LED TV's,Chirala,65200,6,391200
+2020-10-27,Kiran,Laptops,Chirala,52000,41,2132000
+2020-10-31,Gopi,4K LED TV's,Vijayawada,59000,29,1711000
+2020-11-04,Ganesh,LED TV's,Chirala,7999,31,247969
+2020-11-08,Kiran,Mobiles,Vijayawada,45000,34,1530000
+2020-11-12,Prathap,Speakers,Guntur,990,43,42570
+2020-11-16,Ganesh,Laptops,Guntur,11999,37,443963
+2020-11-20,Ganesh,LED TV's,Guntur,960,7,6720
+2020-11-24,Kiran,Furniture,Bapatla,1450,19,27550
+2020-11-28,Gopi,4K LED TV's,Vijayawada,45000,47,2115000
+2020-12-02,Kiran,Speakers,Vijayawada,1499,37,55463
+2020-12-06,Ganesh,Laptops,Bapatla,79999,4,319996
+2020-12-10,Mahesh,4K LED TV's,Chirala,999,45,44955
+2020-12-14,Kiran,Laptops,Guntur,52000,15,780000
+2020-12-18,Gopi,4K LED TV's,Tenali,52000,39,2028000
+2020-12-22,Ganesh,LED TV's,Bapatla,960,33,31680
+2020-12-26,Ganesh,4K LED TV's,Tenali,19500,45,877500
+2020-12-30,Ganesh,Laptops,Tenali,2999,33,98967
+2021-01-03,Kiran,LED TV's,Chirala,1250,14,17500
+2021-01-07,Kiran,Mobiles,Guntur,120,41,4920
+2021-01-11,Gopi,Furniture,Tenali,1450,22,31900
+2021-01-15,Ganesh,Laptops,Guntur,89999,15,1349985
+2021-01-19,Prathap,4K LED TV's,Bapatla,1999,48,95952
+2021-01-23,Prathap,Speakers,Tenali,2900,49,142100
+2021-01-27,Ganesh,Laptops,Chirala,700,50,35000
+2021-01-31,Mahesh,Mobiles,Tenali,200,41,8200
+2021-02-04,Gopi,4K LED TV's,Vijayawada,49000,29,1421000
+2021-02-08,Ramesh,Furniture,Chirala,5599,36,201564
+2021-02-12,Mahesh,Mobiles,Tenali,13500,39,526500
+2021-02-16,Gopi,Laptops,Tenali,79999,9,719991
+2021-02-20,Ganesh,4K LED TV's,Bapatla,75200,38,2857600
+2021-02-24,Ganesh,LED TV's,Guntur,550,25,13750
+2021-02-28,Ramesh,Furniture,Guntur,499,50,24950
+2021-03-04,Ramesh,Furniture,Vijayawada,5599,33,184767
+2021-03-08,Gopi,LED TV's,Bapatla,1450,44,63800
+2021-03-12,Mahesh,Mobiles,Guntur,999,31,30969
+2021-03-16,Mahesh,Mobiles,Tenali,100,11,1100
+2021-03-20,Gopi,Furniture,Tenali,2550,48,122400
+2021-03-24,Ganesh,Laptops,Tenali,33000,26,858000
+2021-03-28,Kiran,Furniture,Bapatla,800,39,31200
+2021-04-01,Prathap,Speakers,Bapatla,990,9,8910
+2021-04-05,Ramesh,Furniture,Guntur,5599,41,229559
+2021-04-09,Ganesh,Laptops,Guntur,499,39,19461
+2021-04-13,Prathap,Speakers,Guntur,1999,4,7996
+2021-04-17,Gopi,Mobiles,Guntur,200,8,1600
+2021-04-21,Prathap,Speakers,Bapatla,1499,27,40473
+2021-04-25,Mahesh,Mobiles,Chirala,120,10,1200
+2021-04-29,Kiran,Laptops,Chirala,11999,17,203983
+2021-05-03,Kiran,Laptops,Vijayawada,999,27,26973
+2021-05-07,Gopi,Laptops,Bapatla,2999,43,128957
+2021-05-11,Mahesh,4K LED TV's,Vijayawada,47800,9,430200
+2021-05-15,Ganesh,4K LED TV's,Guntur,22000,42,924000
+2021-05-19,Ganesh,LED TV's,Vijayawada,1250,6,7500
+2021-05-23,Mahesh,Mobiles,Bapatla,999,28,27972
+2021-05-27,Ganesh,LED TV's,Chirala,1450,13,18850
+2021-05-31,Ganesh,LED TV's,Chirala,23999,8,191992
+2021-06-04,Kiran,4K LED TV's,Chirala,92000,7,644000
+2021-06-08,Prathap,Speakers,Bapatla,699,45,31455
+2021-06-12,Ramesh,Furniture,Guntur,2550,22,56100
+2021-06-16,Gopi,Laptops,Chirala,22000,4,88000
+2021-06-20,Ganesh,Laptops,Guntur,22000,10,220000
+2021-06-24,Kiran,Speakers,Bapatla,1499,16,23984
+2021-06-28,Mahesh,Mobiles,Chirala,120,22,2640
+2021-07-02,Ramesh,Furniture,Vijayawada,1450,20,29000
+2021-07-06,Prathap,Speakers,Bapatla,1999,23,45977
+2021-07-10,Kiran,Furniture,Ongole,800,43,34400
+2021-07-14,Mahesh,Mobiles,Chirala,100,41,4100
+2021-07-18,Ramesh,4K LED TV's,Chirala,13999,37,517963
+2021-07-22,Gopi,Laptops,Tenali,22000,45,990000
+2021-07-26,Ganesh,Laptops,Ongole,89999,15,1349985
+2021-07-30,Ramesh,Furniture,Tenali,13999,22,307978
+2021-08-03,Kiran,Speakers,Bapatla,2900,20,58000
+2021-08-07,Ganesh,Laptops,Tenali,33000,16,528000
+2021-08-11,Kiran,Laptops,Vijayawada,22000,17,374000
+2021-08-15,Kiran,Speakers,Vijayawada,45000,50,2250000
+2021-08-19,Ganesh,4K LED TV's,Bapatla,499,4,1996
+2021-08-23,Prathap,Speakers,Tenali,590,43,25370
+2021-08-27,Gopi,Speakers,Vijayawada,590,42,24780
+2021-08-31,Mahesh,Mobiles,Guntur,12000,9,108000
+2021-09-04,Ganesh,Laptops,Ongole,52000,40,2080000
+2021-09-08,Ganesh,LED TV's,Tenali,7999,14,111986
+2021-09-12,Kiran,LED TV's,Chirala,5000,9,45000
+2021-09-16,Ganesh,Laptops,Tenali,79999,10,799990
+2021-09-20,Prathap,4K LED TV's,Bapatla,1999,37,73963
+2021-09-24,Ganesh,Laptops,Tenali,89999,29,2609971
+2021-09-28,Gopi,Laptops,Guntur,799,44,35156
+2021-10-02,Ganesh,Laptops,Vijayawada,3990,31,123690
+2021-10-06,Kiran,Laptops,Bapatla,52000,29,1508000
+2021-10-10,Kiran,Furniture,Tenali,13999,34,475966
+2021-10-14,Mahesh,Mobiles,Bapatla,14500,29,420500
+2021-10-18,Ganesh,LED TV's,Ongole,23999,25,599975
+2021-10-22,Ganesh,LED TV's,Tenali,1250,31,38750
+2021-10-26,Prathap,4K LED TV's,Tenali,35600,16,569600
+2021-10-30,Mahesh,Mobiles,Tenali,65000,48,3120000
+2021-11-03,Gopi,Mobiles,Ongole,12000,22,264000
+2021-11-07,Prathap,Speakers,Tenali,699,6,4194
+2021-11-11,Prathap,4K LED TV's,Bapatla,990,12,11880
+2021-11-15,Prathap,Speakers,Guntur,450,44,19800
+2021-11-19,Prathap,4K LED TV's,Guntur,1499,15,22485
+2021-11-23,Ramesh,Furniture,Chirala,499,26,12974
+2021-11-27,Ganesh,LED TV's,Chirala,960,16,15360
+2021-12-01,Gopi,4K LED TV's,Tenali,5599,35,195965
+2021-12-05,Mahesh,Mobiles,Guntur,89,36,3204
+2021-12-09,Ramesh,Furniture,Bapatla,2550,20,51000
+2021-12-13,Ramesh,Furniture,Guntur,1450,47,68150
+2021-12-17,Prathap,Speakers,Tenali,2900,6,17400
+2021-12-21,Mahesh,Mobiles,Chirala,120,6,720
+2021-12-25,Ganesh,Laptops,Chirala,52000,41,2132000
+2021-12-29,Prathap,Speakers,Bapatla,590,29,17110
+2022-01-02,Ganesh,4K LED TV's,Ongole,7999,31,247969
+2022-01-06,Kiran,Mobiles,Bapatla,999,34,33966
+2022-01-10,Gopi,Speakers,Guntur,990,43,42570
+2022-01-14,Ganesh,Laptops,Guntur,11999,37,443963
+2022-01-18,Ganesh,LED TV's,Guntur,960,7,6720
+2022-01-22,Ramesh,Furniture,Bapatla,1450,19,27550
+2022-01-26,Prathap,Speakers,Vijayawada,450,47,21150
+2022-01-30,Kiran,Speakers,Bapatla,1499,37,55463
+2022-02-03,Gopi,Laptops,Vijayawada,79999,4,319996
+2022-02-07,Gopi,Mobiles,Chirala,999,45,44955
+2022-02-11,Ganesh,Laptops,Guntur,52000,15,780000
+2022-02-15,Ganesh,Laptops,Tenali,52000,39,2028000
+2022-02-19,Ganesh,LED TV's,Bapatla,960,33,31680
+2022-02-23,Ganesh,LED TV's,Bapatla,1450,34,49300
+2022-02-27,Ganesh,4K LED TV's,Tenali,2999,33,98967
+2022-03-03,Gopi,LED TV's,Chirala,1250,14,17500
+2022-03-07,Mahesh,Mobiles,Guntur,120,41,4920
+2022-03-11,Kiran,Furniture,Tenali,1450,22,31900
+2022-03-15,Kiran,Laptops,Guntur,89999,15,1349985
+2022-03-19,Prathap,Speakers,Bapatla,1999,48,95952
+2022-03-23,Prathap,4K LED TV's,Tenali,2900,49,142100
+2022-03-27,Ganesh,Laptops,Chirala,700,50,35000
+2022-03-31,Mahesh,Mobiles,Tenali,200,41,8200
+2022-04-04,Ramesh,Furniture,Bapatla,499,29,14471
+2022-04-08,Gopi,Furniture,Ongole,5599,36,201564
+2022-04-12,Kiran,Mobiles,Tenali,100,39,3900
+2022-04-16,Ganesh,4K LED TV's,Tenali,79999,9,719991
+2022-04-20,Gopi,Laptops,Bapatla,700,38,26600
+2022-04-24,Ganesh,LED TV's,Guntur,550,25,13750
+2022-04-28,Prathap,Speakers,Tenali,1499,16,23984
+2022-05-02,Mahesh,Mobiles,Chirala,120,22,2640
+2022-05-06,Ramesh,Furniture,Vijayawada,1450,20,29000
+2022-05-10,Prathap,4K LED TV's,Bapatla,1999,23,45977
+2022-05-14,Ramesh,Furniture,Tenali,800,43,34400
+2022-05-18,Gopi,Mobiles,Chirala,100,41,4100
+2022-05-22,Ramesh,Furniture,Bapatla,13999,37,517963
+2022-05-26,Ganesh,Laptops,Tenali,22000,45,990000
+2022-05-30,Ganesh,Laptops,Ongole,89999,15,1349985
+2022-06-03,Kiran,4K LED TV's,Tenali,13999,22,307978
+2022-06-07,Gopi,Speakers,Bapatla,2900,20,58000
+2022-06-11,Kiran,Laptops,Tenali,33000,16,528000
+2022-06-15,Ganesh,4K LED TV's,Vijayawada,22000,17,374000
+2022-06-19,Prathap,Speakers,Vijayawada,699,50,34950
+2022-06-23,Gopi,Laptops,Bapatla,499,4,1996
+2022-06-27,Prathap,Speakers,Tenali,590,43,25370
+2022-07-01,Prathap,Speakers,Vijayawada,590,42,24780
+2022-07-05,Mahesh,Mobiles,Guntur,120,9,1080
+2022-07-09,Gopi,Laptops,Ongole,52000,40,2080000
+2022-07-13,Ganesh,4K LED TV's,Tenali,7999,14,111986
+2022-07-17,Gopi,LED TV's,Chirala,550,9,4950
+2022-07-21,Ganesh,Laptops,Tenali,79999,10,799990
+2022-07-25,Kiran,4K LED TV's,Vijayawada,1999,37,73963
+2022-07-29,Gopi,Laptops,Tenali,89999,29,2609971
+2022-08-02,Ganesh,Laptops,Guntur,799,44,35156
+2022-08-06,Ganesh,Laptops,Ongole,3990,31,123690
+2022-08-10,Gopi,4K LED TV's,Bapatla,52000,29,1508000
+2022-08-14,Ramesh,Furniture,Tenali,13999,34,475966
+2022-08-18,Gopi,Mobiles,Bapatla,120,29,3480
+2022-08-22,Ganesh,LED TV's,Guntur,23999,25,599975
+2022-08-26,Gopi,LED TV's,Tenali,1250,31,38750
+2022-08-30,Prathap,4K LED TV's,Tenali,45000,16,720000
+2022-09-03,Kiran,Mobiles,Bapatla,120,48,5760
+2022-09-07,Gopi,4K LED TV's,Chirala,25600,22,563200
+2022-09-11,Prathap,Speakers,Tenali,699,6,4194
+2022-09-15,Prathap,4K LED TV's,Bapatla,99620,12,1195440
+2022-09-19,Gopi,Speakers,Ongole,450,44,19800
+2022-09-23,Prathap,Speakers,Bapatla,1499,15,22485
+2022-09-27,Ramesh,4K LED TV's,Chirala,49500,26,1287000
+2022-10-01,Kiran,LED TV's,Chirala,960,16,15360
+2022-10-05,Gopi,Furniture,Tenali,5599,35,195965
+2022-10-09,Mahesh,Mobiles,Guntur,89,36,3204
+2022-10-13,Ramesh,Furniture,Ongole,2550,20,51000
+2022-10-17,Gopi,4K LED TV's,Guntur,14500,47,681500
+2022-10-21,Prathap,Speakers,Tenali,2900,6,17400
+2022-10-25,Mahesh,Mobiles,Chirala,120,6,720
+2022-10-29,Ganesh,4K LED TV's,Bapatla,52000,41,2132000
+2022-11-02,Kiran,Speakers,Vijayawada,590,29,17110
+2022-11-06,Ganesh,LED TV's,Chirala,7999,31,247969
+2022-11-10,Gopi,Mobiles,Vijayawada,999,34,33966
+2022-11-14,Prathap,4K LED TV's,Bapatla,990,43,42570
+2022-11-18,Gopi,Laptops,Guntur,11999,37,443963
+2022-11-22,Kiran,LED TV's,Guntur,960,7,6720
+2022-11-26,Ramesh,Furniture,Bapatla,1450,19,27550
+2022-11-30,Prathap,Speakers,Vijayawada,450,47,21150
+2022-12-04,Gopi,4K LED TV's,Vijayawada,1499,37,55463
+2022-12-08,Ganesh,Laptops,Vijayawada,79999,4,319996
+2022-12-12,Gopi,Mobiles,Chirala,999,45,44955
+2022-12-16,Ganesh,Laptops,Guntur,52000,15,780000
+2022-12-20,Kiran,Laptops,Tenali,52000,39,2028000
+2022-12-24,Gopi,LED TV's,Tenali,960,33,31680
+2022-12-28,Ganesh,LED TV's,Bapatla,1450,34,49300
+2022-12-18,Prathap,Speakers,Ongole,2500,100,250000
+2022-12-22,Kiran,4K LED TV's,Ongole,86540,6,519240
+2022-12-27,Mahesh,Mobiles,Ongole,550,44,24200
+2022-12-30,Gopi,Laptops,Ongole,65400,19,1242600
